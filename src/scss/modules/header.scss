@@ -3,3 +3,20 @@ header {
     background-color: transparent;
     position: absolute;
 }
+.header__content {
+    display: flex;
+    padding: 55px 0;
+}
+.header__list {
+    display: flex;
+    justify-content: space-between;
+}
+.header__item {
+    margin-right: 30px;
+}
+.header__item:first-child {
+    margin-right: 705px;
+}
+.header__item:last-child {
+    margin: 0;
+}

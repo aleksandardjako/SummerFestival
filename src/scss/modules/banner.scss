@@ -1,0 +1,53 @@
+.banner {
+    padding: 130px 0 205px;
+}
+.banner__section {
+    display: flex;
+}
+.banner__logo {
+    width: 50%;
+    padding: 100px 80px 245px 0;
+}
+.logo__image {
+    min-width: 526px;
+    max-height: 526px;
+    text-align: center;
+    position: relative;
+    padding: 200px 85px;
+    left: -60px;
+}
+.logo__content-title {
+    font-size: 58px;
+}
+.logo__content-header {
+    font-family: $monoton;
+    font-size: 71px;
+}
+.logo__image-logo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.banner__content {
+    width: 50%;
+    padding-top: 340px;
+    text-align: right;
+}
+.banner__content-title {
+    margin-bottom: 65px;
+    text-align: center;
+}
+.banner__content-paragraph {
+    margin-bottom: 45px;
+}
+.banner__content-link {
+    font-size: 25px;
+    text-transform: none;
+    color: #100667;
+    background-color: #d3d0f1;
+    text-align: center;
+    padding: 15px 70px 15px 75px;
+    max-width: 255px;
+}

@@ -1,8 +1,8 @@
 // Base
 @import 'base/fonts.scss';
 @import 'base/reset.scss';
-@import 'base/typography.scss';
 @import 'base/variables.scss';
+@import 'base/typography.scss';
 
 // Helpers
 @import 'helpers/helpers.scss';
@@ -20,5 +20,6 @@
 @import 'modules/header.scss';
 @import 'modules/footer.scss';
 @import 'modules/main.scss';
+@import 'modules/banner.scss';
 
 
