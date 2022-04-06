@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    background-color: $body;
+    font-family: $raleway;
+}
+.wrap {
+    max-width: 1120px;
+    height: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
