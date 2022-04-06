@@ -1,0 +1,30 @@
+.footer {
+    background-color: $purple;
+}
+.footer__content {
+    display: flex;
+    padding: 70px 90px 80px 0;
+    align-content: space-between;
+}
+.footer__left {
+    width: 50%;
+    padding-right: 200px;
+}
+.footer__right {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.footer__content-title {
+    margin-bottom: 35px;
+}
+.footer__left-paragraph {
+    font-size: 19px;
+    line-height: 29px;
+}
+.right__content-link {
+    display: block;
+    font-size: 21px;
+    line-height: 33px;
+    text-transform: none;
+}
