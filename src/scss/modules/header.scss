@@ -2,10 +2,13 @@ header {
     width: 100%;
     background-color: transparent;
     position: absolute;
+    top: 0;
+    left: 0;
 }
 .header__content {
     display: flex;
-    padding: 55px 0;
+    padding: 55px 0 55px 35px;
+    position: relative;
 }
 .header__list {
     display: flex;
@@ -19,4 +22,16 @@ header {
 }
 .header__item:last-child {
     margin: 0;
+}
+.header__content-btn {
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    right: 20px;
+    max-width: 30px;
+    max-height: 20px;
+}
+.header__content-btn-image {
+    width: 100%;
+    height: 100%;
 }

@@ -1,0 +1,27 @@
+.info__content {
+    padding: 90px 0 65px;
+    text-align: center;
+}
+.info__content-title {
+    margin-bottom: 35px;
+}
+.info__content-paragraph {
+    max-width: 715px;
+    margin: 0 auto 35px;
+}
+.info__rectangle {
+    max-width: 162px;
+    margin: 0 auto 50px;
+}
+.info__rectangle-image {
+    width: 100%;
+    height: 100%;
+}
+.info__content-link {
+    margin-right: 40px;
+    font-size: 17px;
+    text-transform: none;
+}
+.info__content-link:last-child {
+    margin-right: 0;
+}

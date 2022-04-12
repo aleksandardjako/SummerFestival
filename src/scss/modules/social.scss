@@ -1,0 +1,29 @@
+.social__content {
+    text-align: center;
+    padding: 50px 0;
+}
+.social__content-sign {
+    font-size: 84px;
+    font-weight: bold;
+}
+.social__content-paragraph {
+    max-width: 700px;
+    margin: 0 auto 10px;
+}
+.social__content-name {
+    font-size: 19px;
+    line-height: 33px;
+    margin-bottom: 45px;
+    display: block;
+    font-weight: bold;
+}
+.social__list {
+    display: flex;
+    justify-content: center;
+}
+.social__item {
+    margin-right: 25px;
+}
+.social__item:last-child {
+    margin-right: 0;
+}

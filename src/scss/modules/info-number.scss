@@ -1,0 +1,31 @@
+.info-number__content {
+    padding: 170px 220px 290px;
+    text-align: center;
+}
+.info-number__content-title {
+    margin-bottom: 95px;
+}
+.info-number__section {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+.info-number__year {
+    margin-right: 110px;
+}
+.info-number__year:last-child {
+    margin-right: 0;
+}
+.info-number__year-paragraph{
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.info-number__year-num {
+    display: block;
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+.info-number__year-name {
+    font-size: 21px;
+    text-transform: uppercase;
+}

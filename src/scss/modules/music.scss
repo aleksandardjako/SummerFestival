@@ -1,0 +1,19 @@
+.music {
+    background-color: $purple;
+}
+.music__content {
+    display: flex;
+    width: 100%;
+    padding: 100px 0;
+    justify-content: space-between;
+}
+.music__new {
+    width: 30%;
+}
+.music__new-title {
+    margin-bottom: 40px;
+}
+.music__new-paragraph {
+    font-size: 17px;
+    line-height: 25px;
+}

@@ -1,0 +1,51 @@
+.priorities__content {
+    padding: 95px 0 130px;
+    text-align: center;
+}
+.priorities__content-title {
+    margin-bottom: 50px;
+}
+.priorities__content-paragraph {
+    max-width: 870px;
+    margin: 0 auto;
+}
+.priorities__section {
+    padding-top: 125px;
+    display: flex;
+    justify-content: space-between;
+}
+.priorities__company {
+    background-color: $purple;
+    padding: 60px;
+    text-align: left;
+    margin-right: 30px;
+}
+.priorities__company:last-child {
+    margin-right: 0;
+}
+.priorities__company-title {
+    margin-bottom: 60px;
+}
+.priorities__company-paragraph {
+    margin-bottom: 50px;
+    line-height: 1.4;
+    font-size: 17px;
+}
+.priorities__circle {
+    max-width: 60px;
+    position: absolute;
+}
+.priorities__circle-img {
+    width: 100%;
+    height: 100%;
+}
+.priorities__company-AJ {
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-left: 80px;
+    font-size: 15px;
+}
+.priorities__company-account {
+    padding-left: 80px;
+    font-size: 15px;
+}
